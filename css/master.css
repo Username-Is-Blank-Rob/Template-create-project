@@ -5,6 +5,11 @@
   color:#ABFD36;
   padding-left: 300px;
 }
+.button{
+  padding-left: 300px;
+  background-color: white;
+  display: block;
+}
 .jumbotron{
 background-color: #9ACD32;
 }
